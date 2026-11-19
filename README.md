@@ -28,7 +28,7 @@ We tested whether changes in the US federal funds rate (FFR) help predict next-m
 
 Neither model beat the baseline out of sample. Investing $10,000 only in months the model predicted "up" also finished behind always staying invested ($13,706 Lasso and $12,527 gradient boosting vs $17,921). Monthly returns look very hard to predict from interest rates alone.
 
-## How to run
+## Requirement
 
 From the main folder:
 
