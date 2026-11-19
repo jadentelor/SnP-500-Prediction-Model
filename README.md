@@ -2,7 +2,7 @@
 
 DATA1902 group project, University of Sydney (2026).
 
-## What this project does
+## Background
 
 We tested whether changes in the US federal funds rate (FFR) help predict next-month S&P 500 returns. Two machine learning models, Lasso regression and gradient boosting, were compared against a simple baseline that always predicts the average month.
 
